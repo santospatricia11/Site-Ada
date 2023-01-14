@@ -1,4 +1,4 @@
-# Site-Ada desenvolvido durante o curso do PrograMaria
+# Site-Ada foi desenvolvido durante o curso do PrograMaria
 
 
 
